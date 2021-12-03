@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mtlols
+- 👀 I’m interested in C# and unity Dev
+- 🌱 I’m currently learning how to coding
